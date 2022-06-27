@@ -36,7 +36,7 @@ padding: 0;
 --primary-color: #06f5e1;
 --secondry-color: #087179;
 --third-color: #64f7be;
---white-color: #fff;
+--white-color: rgb(12, 12, 12);
 --text-color: #555;
 --text-gray: #999;
 --black-color: #000;
@@ -463,7 +463,7 @@ height:3.8125rem;
 }
 .navigation-wrap{
 text-align: center;
-background-color: var(--white-color);
+background-color: var(--black-color);
 }
 .navigation-wrap .nav-link{
 line-height: 1.875rem;
